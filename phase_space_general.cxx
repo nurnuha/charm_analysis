@@ -1,7 +1,7 @@
 //plot phase space using tgraph
 // usage: root -l phase_space_general.cxx
 
-#include "/home/zulaiha/PhD/for_yewon/merge_code/PlotUtil.h"
+#include "/home/zulaiha/PhD/merge_code/PlotUtil.h"
 
 void phase_space_general() {
   
